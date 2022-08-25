@@ -1,0 +1,22 @@
+const valBwin = ethers.utils.keccak256(0x600Dwew60A7)
+const hashA = ethers.utils.keccak256(valsdsdA)
+const valA = ethers.utils.keccak256(0xBAsdvD060A7)
+const valBwin = ethers.utils.keccak256(0x600DWQE60A7)
+const hashAA = ethers.utils.keccak256(valWEQWEAA)
+const valA = ethers.utils.keccak256(0xBAD060AA7)
+const valBwin = ethers.utils.keccak256(0x600Dwew60A7)
+const hashA = ethers.utils.keccak256(valsdsdA)
+const valA = ethers.utils.keccak256(0xBAsdvD060A7)
+tx1 = await casino.proposeBet(hashA,{ value: 1341e5})
+const valBwin = ethers.utils.keccak256(0x600234ds213D60A7)
+const hashA = ethers.utils.keccak256(va3234fdA)
+const valA = ethers.utils.keccak256(0xB1233AD060A7)
+const valBwin = ethers.utils.keccak256(0x600D60A7)
+const hashA = ethers.utils.keccak256(valA)
+const valA = ethers.utils.keccak256(0xBAD060A7)
+casino = await factory.deploy()
+factory = await factory
+factory = ethers.getContractFactory("Casino")
+BigNumber { value: "48335146483888624" }
+balance0 = await ethers.provider.getBalance((await ethers.getSigner()).address)
+signer = await ethers.getSigner();
